@@ -3,7 +3,7 @@
 A simple script in python alerting a new shoe launch in Footlocker.co.il using a discord webhook.
 
 ### How to use:
-1. Install the required lbraries using `pip install -r /path/to/requirements.txt` 
+1. Install the required libraries using `pip install -r /path/to/requirements.txt` 
 2. Paste your discord webhook under the global variable WEBHOOKURL in line 6. [How to create discord webhook can be found here](https://hookdeck.com/webhooks/platforms/how-to-get-started-with-discord-webhooks#discord-webhook-example)
 3. Run it in the background
 
